@@ -20,7 +20,7 @@ Script provides support for the following:
 
   
 The file structor created by the script is as follows:
-- $DIRECTORY
+- [Base Directory]
   - file_nameiOS
     - file_name&#46;png
     - file_name@2x&#46;png
