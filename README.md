@@ -22,18 +22,18 @@ Script provides support for the following:
 The file structor created by the script is as follows:
 - $DIRECTORY
   - file_nameiOS
-    - file_name.png
-    - file_name@2x.png
+    - file_name&#46;png
+    - file_name@2x&#46;png
   - drawable-mdpi
-    - file_name.png
+    - file_name&#46;png
   - drawable-hdpi
-    - file_name.png
+    - file_name&#46;png
   - drawable-xhdpi
-    - file_name.png
+    - file_name&#46;png
   - drawable-xxhdpi
-    - file_name.png
+    - file_name&#46;png
   - drawable-xxxhdpi
-    - file_name.png
+    - file_name&#46;png
 
 
 ----
