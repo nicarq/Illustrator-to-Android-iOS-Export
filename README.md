@@ -5,7 +5,7 @@ Fork by Matthew Porter (http://github.com/M-Porter) from https://github.com/atyn
 
 ##Changes
 
-Illustrator CS6 script to export an AI file and export it to Android and iOS compatible icons.
+Illustrator CS6 script to export an Ai file to Android and iOS compatible icons.
 
 Script provides support for the following:
 - Android
