@@ -15,8 +15,9 @@ Script provides support for the following:
   - xxhdpi
   - xxxhdpi
 - iOS
-  - @2x
-  - non-@2x
+  - @3x (Retina HD: iPhone 6+)
+  - @2x (Retina: iPhone 4, 4s, 5, 5s, 5c and 6)
+  - normal (iPhone 3GS and older)
 
   
 The file structor created by the script is as follows:
